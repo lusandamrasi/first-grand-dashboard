@@ -1,0 +1,9 @@
+Week,Property_ID,Property_Name,Location,Bedrooms,Property_Type,Revenue_Potential,Weekly_Revenue,Occupancy_%,ADR,Guest_Rating,Revenue_Achievement_%,Days_to_Next_Booking
+Week 1,SP001,Above&Beyond,Sea Point,3,Apartment,29167,27000,79.4,4600,5,92.57,2
+Week 2,SP001,Above&Beyond,Sea Point,3,Apartment,29167,28500,84.2,4200,4.8,97.71,1
+Week 3,SP001,Above&Beyond,Sea Point,3,Apartment,29167,27500,81.9,4800,4.9,94.28,0
+Week 4,SP001,Above&Beyond,Sea Point,3,Apartment,29167,25500,82.2,4500,4.7,87.43,4
+Week 1,SP002,Cape Town Luxury Villa,Woodstock,3,House,20833,14800,71.5,4100,4.2,71.04,9
+Week 2,SP002,Cape Town Luxury Villa,Woodstock,3,House,20833,16200,83.6,3900,4.4,77.76,3
+Week 3,SP002,Cape Town Luxury Villa,Woodstock,3,House,20833,17000,77.5,4500,4.7,81.60,6
+Week 4,SP002,Cape Town Luxury Villa,Woodstock,3,House,20833,18800,76.9,4100,4.9,90.24,8
